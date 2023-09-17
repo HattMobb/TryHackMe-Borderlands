@@ -1,5 +1,5 @@
 # TryHackMe-Borderlands
-A walkthrough/ write-up of the "Borderlands" box on TryHackMe
+A walkthrough/ write-up of the "Borderlands" box on TryHackMe (work in progress)
 
 
 The Network for this test was laid out as follows:
